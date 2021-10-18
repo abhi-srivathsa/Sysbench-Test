@@ -1,5 +1,5 @@
 # Sysbench-Test
-Testing CPU and FileIO performance using sysbench tool on linux to compare a Virtual Machine in QEMU and a Container on Docker
+Testing CPU and File I/O performance using sysbench tool on linux to compare a Virtual Machine in QEMU and a Container on Docker
 
 All the shell scripts under the Shell Scripts folder can be used to run tests on the machines. 
 
